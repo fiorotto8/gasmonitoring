@@ -1,0 +1,12 @@
+*.root
+allDPID*
+customDPID*
+selectedDPID*
+password.txt
+Syncro
+UnSyncro
+OutputBaselines
+QuickAnalysed
+setDate.txt
+PHPlaunch.sh
+QualityCheckerlog.txt

@@ -1,0 +1,81 @@
+DPE Name	DPID num	Indentity
+Mx_PT1103	40	Upstream pressure Mass Flow Controller Argon
+Mx_PT1203	41	Upstream pressure Mass Flow Controller CO2
+Mx_L1CompRatioAS	42	Measured Argon Percentage
+Mx_L2CompRatioAS	43	Measured CO2 percentage
+Mx_XMFC1106	146	Measured Flow Argon
+Mx_XMFC1206	147	Measured Flow C02
+Mx_PT1009	39	Downstream pressure after mixer
+Mx_TotalFlowAS	44	Measured mixture flux sum of the Ar and CO2 MFCs
+Di_TotFlowAS	38	Measured mixture flux sum of all the measured values of the flowcell (may differ from Mx_TotalFlowAS)
+Di_PT6422	3784	Rack 64 (GE+1) pressure upstream the chambers and upstream the safety membrane
+Di_PT6424	3788	Rack 64 (GE+1) pressure upstream the chambers and downstream the safety membrane
+Di_PT6122	33	Rack 61 (GE-1) pressure upstream the chambers and upstream the safety membrane
+Di_PT6124	32	Rack 61 (GE-1) pressure upstream the chambers and downstream the safety membrane
+Di_PT6425	3792	Rack 64 (GE+1) pressure downstream the chambers
+Di_PT6428	3795	Predistribution return pressure after Rack 64 (GE+1)
+Di_PT6125	31	Rack 61 (GE-1) pressure downstream the chambers
+Di_PT6128	3794	Predistribution return pressure after Rack 61 (GE+1)
+Di_FE6402Ch1	3684	GE+1 input flow CH1
+Di_FE6402Ch2	3685	GE+1 input flow CH2
+Di_FE6402Ch3	3686	GE+1 input flow CH3
+Di_FE6402Ch4	3687	GE+1 input flow CH4
+Di_FE6402Ch5	3688	GE+1 input flow CH5
+Di_FE6402Ch6	3689	GE+1 input flow CH6
+Di_FE6402Ch7	3690	GE+1 input flow CH7
+Di_FE6402Ch8	3691	GE+1 input flow CH8
+Di_FE6402Ch9	3692	GE+1 input flow CH9
+Di_FE6402Ch10	3693	GE+1 input flow CH10
+Di_FE6402Ch11	3694	GE+1 input flow CH11
+Di_FE6402Ch12	3695	GE+1 input flow CH12
+Di_FE6406Ch1	3746	GE+1 output flow CH1
+Di_FE6406Ch2	3747	GE+1 output flow CH2
+Di_FE6406Ch3	3748	GE+1 output flow CH3
+Di_FE6406Ch4	3749	GE+1 output flow CH4
+Di_FE6406Ch5	3750	GE+1 output flow CH5
+Di_FE6406Ch6	3751	GE+1 output flow CH6
+Di_FE6406Ch7	3752	GE+1 output flow CH7
+Di_FE6406Ch8	3753	GE+1 output flow CH8
+Di_FE6406Ch9	3754	GE+1 output flow CH9
+Di_FE6406Ch10	3755	GE+1 output flow CH10
+Di_FE6406Ch11	3756	GE+1 output flow CH11
+Di_FE6406Ch12	3757	GE+1 output flow CH12
+Di_FE6102Ch1	34	GE-1 input flow CH1
+Di_FE6102Ch2	45	GE-1 input flow CH2
+Di_FE6102Ch3	35	GE-1 input flow CH3
+Di_FE6102Ch4	46	GE-1 input flow CH4
+Di_FE6102Ch5	36	GE-1 input flow CH5
+Di_FE6102Ch6	37	GE-1 input flow CH6
+Di_FE6102Ch7	3659	GE-1 input flow CH7
+Di_FE6102Ch8	3660	GE-1 input flow CH8
+Di_FE6102Ch9	3661	GE-1 input flow CH9
+Di_FE6102Ch10	3662	GE-1 input flow CH10
+Di_FE6102Ch11	3663	GE-1 input flow CH11
+Di_FE6102Ch12	3664	GE-1 input flow CH12
+Di_FE6106Ch1	128	GE+1 output flow CH1
+Di_FE6106Ch2	130	GE+1 output flow CH2
+Di_FE6106Ch3	132	GE+1 output flow CH3
+Di_FE6106Ch4	134	GE+1 output flow CH4
+Di_FE6106Ch5	136	GE+1 output flow CH5
+Di_FE6106Ch6	138	GE+1 output flow CH6
+Di_FE6106Ch7	3721	GE+1 output flow CH7
+Di_FE6106Ch8	3722	GE+1 output flow CH8
+Di_FE6106Ch9	3723	GE+1 output flow CH9
+Di_FE6106Ch10	3724	GE+1 output flow CH10
+Di_FE6106Ch11	3725	GE+1 output flow CH11
+Di_FE6106Ch12	3726	GE+1 output flow CH12
+CMSAUX_En_PT0101	112	SGX atmospheric pressure
+CMSAUX_En_PT0201	113	USC atmpspheric pressure
+CMSAUX_En_PT0301	114	UXC atmospheric pressure
+CMSAUX_En_TE0051	115	USC ambient temperature
+CMSGEM_Pp_PDT4020	3807	Differential pressure after pump
+CMSGEM_Pp_PT4004	3808	Pressure before Pump
+CMSGEM_Pp_PT4006	3809	Pressure after Pump
+CMSGEM_Pp_PT4101_1	3810	Membrane pressure Pump 1
+CMSGEM_Pp_PT4201_1	3811	Membrane pressure Pump 2
+CMSGEM_Pp_TE4101_1	3812	Temperature of Pump 1
+CMSGEM_Pp_TE4201_1	3813	Temperature of Pump 2
+CMSGEM_Pp_PV4003	3814	Pressure control valve (Pump)
+CMSGEM_Pp_RnDfltPSp	3815	Pressure regulation set point (Pump)
+CMSGEM_Pp_RunTime1AS	3816	Run time Pump1
+CMSGEM_Pp_RunTime2AS	3817	Run time Pump2
